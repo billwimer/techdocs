@@ -7,7 +7,7 @@
 |            |                     |                        |                   |
 |------------|---------------------|------------------------|-------------------|
 | **Title**  | *API Gateway Conent*             | **Status**             | *InProgress*      |
-| **Owner**  | *Joseph Lu*             | **Additional Editors** | *Maureen*,*Andre* |
+| **Owner**  | *J. Lu*             | **Additional Editors** | *Maureen*,*Andre* |
 | **Due**    | *June 26, 2017*              | **Customer review ?**  | *no*        |
 
 
