@@ -1,8 +1,9 @@
-site_name: 'example-docs'
+site_name: 'Sample Techdocs'
 
 nav:
   - Home: index.md
+  - ActivityStream: activity-stream/README.md
+  - api: api/appdev.md 
 
 plugins:
   - techdocs-core
-  
