@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: techdocs
+  name: techdocs x
   annotations:
     github.com/project-slug: billwimer/techdocs
     backstage.io/techdocs-ref: dir:.
