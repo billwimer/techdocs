@@ -4,6 +4,7 @@ metadata:
   name: techdocs
   annotations:
     github.com/project-slug: billwimer/techdocs
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
